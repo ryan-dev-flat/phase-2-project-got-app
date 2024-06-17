@@ -1,4 +1,5 @@
-[
+{
+  "characters": [
     {
       "id": 0,
       "firstName": "Daenerys",
@@ -530,3 +531,4 @@
       "imageUrl": "https://thronesapi.com/assets/images/bronn.jpg"
     }
   ]
+}
