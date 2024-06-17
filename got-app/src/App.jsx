@@ -1,5 +1,6 @@
 import React from "react"
 import { useEffect, useState } from "react"
+import Header from "./Header";
 
 const baseUrl = "http://localhost:3000"
 
@@ -15,6 +16,7 @@ function App() {
 
   return (
     <>
+      <Header />
     </>
   )
 }
