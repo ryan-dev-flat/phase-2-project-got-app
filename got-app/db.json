@@ -8,7 +8,8 @@
       "title": "Mother of Dragons",
       "family": "House Targaryen",
       "image": "daenerys.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/daenerys.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/daenerys.jpg",
+      "bio": "Queen Daenerys I Targaryen, also known as Daenerys Stormborn, and affectionately known as Dany, was the only daughter of King Aerys II Targaryen and Queen Rhaella, and the younger sister of Rhaegar and Viserys Targaryen. Daenerys is one of the last members of the exiled House Targaryen. She is the only daughter of King Aerys II Targaryen and Queen Rhaella Targaryen, and the younger sister of Crown Prince Rhaegar Targaryen and Viserys Targaryen. Born during the end of Robert's Rebellion, Daenerys was smuggled across the Narrow Sea with her brother, Viserys, to the Free City of Braavos. After Darry died of old age, the two were forced to flee from one city to another to avoid her King Robert I Baratheon's assassins. At some point of the story, Viserys made her his heir, and after his death, Daenerys inherits his claim to the Iron Throne and begins plotting to take it back from the people that forced her family out decades before as the 'rightful heir' of House Targaryen. She later becomes known as the 'Mother of Dragons', after she caused the hatching of three of the creatures."
     },
     {
       "id": 1,
@@ -18,7 +19,8 @@
       "title": "Maester",
       "family": "House Tarly",
       "image": "sam.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/sam.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/sam.jpg",
+      "bio": "Samwell, born Samwell Tarly, and often called Sam, is Jon Snow's closest friend, the eldest son of Lord Randyll Tarly and Lady Melessa Tarly of Horn Hill, and the older brother of Dickon and Talla Tarly. Randyll, one of the most skilled military commanders in Westeros, hoped for a son who would carry on his legacy and lead House Tarly into battle. Much to his dismay, his firstborn turned out to be an overweight scholarly-minded boy with no thirst for violence. Randyll, ashamed of his son, forced Sam to take the black under threat of death in order to disinherit him (though it is unknown if Randyll would really have done this). Sam departed for the Wall, leaving his younger brother Dickon as heir to House Tarly"
     },
     {
       "id": 2,
@@ -28,7 +30,8 @@
       "title": "King of the North",
       "family": "House Stark",
       "image": "jon-snow.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/jon-snow.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/jon-snow.jpg",
+      "bio": "Jon Snow, born Aegon Targaryen, is the son of Lyanna Stark and Rhaegar Targaryen, the late Prince of Dragonstone. From infancy, Jon is presented as the bastard son of Lord Eddard Stark, Lyanna's brother, and raised alongside Eddard's lawful children at Winterfell. Jon's true parentage is kept secret from everyone, including Jon himself, in order to protect him from those that sought the complete annihilation of House Targaryen. Jon joins the Night's Watch and is later elected as Lord Commander. As a result of several controversial decisions, such as allowing the wildlings to settle south of the Wall, Jon is murdered in a mutiny."
     },
     {
       "id": 3,
@@ -166,7 +169,7 @@
       "lastName": "Baelish",
       "fullName": "Petyr Baelish",
       "title": "Littlefinger",
-      "family": "House Baelish",
+      "family": "misc",
       "image": "littlefinger.jpg",
       "imageUrl": "https://thronesapi.com/assets/images/littlefinger.jpg"
     },
@@ -176,7 +179,7 @@
       "lastName": "Seaworth",
       "fullName": "Davos Seaworth",
       "title": "Hand of the King",
-      "family": "House Seaworth",
+      "family": "misc",
       "image": "davos-seaworth.png",
       "imageUrl": "https://thronesapi.com/assets/images/davos-seaworth.png"
     },
@@ -196,7 +199,7 @@
       "lastName": "Unknown",
       "fullName": "Varys",
       "title": "Master of Whisperers",
-      "family": "Unknown",
+      "family": "misc",
       "image": "varys.jpg",
       "imageUrl": "https://thronesapi.com/assets/images/varys.jpg"
     },
@@ -246,7 +249,7 @@
       "lastName": "None",
       "fullName": "Missandei",
       "title": "Queen's Personal Advisor",
-      "family": "Naathi",
+      "family": "misc",
       "image": "missandei.jpeg",
       "imageUrl": "https://thronesapi.com/assets/images/missandei.jpeg"
     },
@@ -256,7 +259,7 @@
       "lastName": "None",
       "fullName": "Gilly",
       "title": "The Rabbit Keeper",
-      "family": "None",
+      "family": "misc",
       "image": "gilly.jpg",
       "imageUrl": "https://thronesapi.com/assets/images/gilly.jpg"
     },
@@ -266,7 +269,7 @@
       "lastName": "Targaryan",
       "fullName": "Viserys Targaryn",
       "title": "King Viserys III",
-      "family": "House Targaryan",
+      "family": "House Targaryen",
       "image": "viserys-targaryan.jpg",
       "imageUrl": "https://thronesapi.com/assets/images/viserys-targaryan.jpg"
     },
@@ -296,7 +299,7 @@
       "lastName": "Naharis",
       "fullName": "Daario",
       "title": "Commander of the Second Sons",
-      "family": "Naharis",
+      "family": "misc",
       "image": "daario.jpg",
       "imageUrl": "https://thronesapi.com/assets/images/daario.jpg"
     },
@@ -306,7 +309,7 @@
       "lastName": "",
       "fullName": "Shae",
       "title": "Mistress",
-      "family": "Lorathi",
+      "family": "misc",
       "image": "shae.jpg",
       "imageUrl": "https://thronesapi.com/assets/images/shae.jpg"
     },
@@ -482,11 +485,11 @@
     },
     {
       "id": 48,
-      "firstName": "",
+      "firstName": "Grand Maester",
       "lastName": "Pycelle",
-      "fullName": "Pycelle",
+      "fullName": "Grand Maester Pycelle",
       "title": "Grand Maester of the Seven Kingdoms",
-      "family": "",
+      "family": "misc",
       "image": "pycelle.jpg",
       "imageUrl": "https://thronesapi.com/assets/images/pycelle.jpg"
     },
@@ -516,7 +519,7 @@
       "lastName": "Grand Maester",
       "fullName": "Qyburn",
       "title": "Former maester of the Citadel",
-      "family": "Qyburn",
+      "family": "misc",
       "image": "qyburn.jpg",
       "imageUrl": "https://thronesapi.com/assets/images/qyburn.jpg"
     },
@@ -526,7 +529,7 @@
       "lastName": "Bronn",
       "fullName": "Lord Bronn",
       "title": "Lord of Highgarden",
-      "family": "Bronn",
+      "family": "misc",
       "image": "bronn.jpg",
       "imageUrl": "https://thronesapi.com/assets/images/bronn.jpg"
     },

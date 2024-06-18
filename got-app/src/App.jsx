@@ -2,6 +2,8 @@ import React from "react"
 import { useEffect, useState } from "react"
 import Header from "./Header";
 import CharacterPage from "./CharacterPage";
+import CreateCharacter from "./CreateCharacter";
+
 
 const baseUrl = "http://localhost:3000"
 
@@ -18,6 +20,7 @@ function App() {
     <>
       <Header />
       <CharacterPage characters={characters} />
+      <CreateCharacter />
     </>
   )
 }
