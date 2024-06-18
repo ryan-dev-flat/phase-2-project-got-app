@@ -4,7 +4,6 @@ import Header from "./Header";
 import CharacterPage from "./CharacterPage";
 import CreateCharacter from "./CreateCharacter";
 
-
 const baseUrl = "http://localhost:3000"
 
 function App() {
@@ -17,12 +16,12 @@ function App() {
   }, [])
 
   return (
-    <>
-      <Header />
-      <CharacterPage characters={characters} />
-      <CreateCharacter />
-    </>
+      <div>
+        <Header />
+        <CharacterPage characters={characters} />
+        <CreateCharacter  />
+      </div>
   )
 }
 
-export default App
+export default App;
