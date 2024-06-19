@@ -20,7 +20,7 @@
       "family": "House Tarly",
       "image": "sam.jpg",
       "imageUrl": "https://thronesapi.com/assets/images/sam.jpg",
-      "bio": "Samwell, born Samwell Tarly, and often called Sam, is Jon Snow's closest friend, the eldest son of Lord Randyll Tarly and Lady Melessa Tarly of Horn Hill, and the older brother of Dickon and Talla Tarly. Randyll, one of the most skilled military commanders in Westeros, hoped for a son who would carry on his legacy and lead House Tarly into battle. Much to his dismay, his firstborn turned out to be an overweight scholarly-minded boy with no thirst for violence. Randyll, ashamed of his son, forced Sam to take the black under threat of death in order to disinherit him (though it is unknown if Randyll would really have done this). Sam departed for the Wall, leaving his younger brother Dickon as heir to House Tarly"
+      "bio": "Samwell Tarly, often called Sam, is a kind-hearted and studious member of the Night's Watch."
     },
     {
       "id": 2,
@@ -31,7 +31,7 @@
       "family": "House Stark",
       "image": "jon-snow.jpg",
       "imageUrl": "https://thronesapi.com/assets/images/jon-snow.jpg",
-      "bio": "Jon Snow, born Aegon Targaryen, is the son of Lyanna Stark and Rhaegar Targaryen, the late Prince of Dragonstone. From infancy, Jon is presented as the bastard son of Lord Eddard Stark, Lyanna's brother, and raised alongside Eddard's lawful children at Winterfell. Jon's true parentage is kept secret from everyone, including Jon himself, in order to protect him from those that sought the complete annihilation of House Targaryen. Jon joins the Night's Watch and is later elected as Lord Commander. As a result of several controversial decisions, such as allowing the wildlings to settle south of the Wall, Jon is murdered in a mutiny."
+      "bio": "Jon Snow is the bastard son of Eddard Stark, raised at Winterfell and currently serving in the Night's Watch."
     },
     {
       "id": 3,
@@ -41,7 +41,8 @@
       "title": "No One",
       "family": "House Stark",
       "image": "arya-stark.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/arya-stark.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/arya-stark.jpg",
+      "bio": "Arya Stark is the youngest daughter of Eddard Stark. She is headstrong, independent, and not afraid to fight."
     },
     {
       "id": 4,
@@ -51,7 +52,8 @@
       "title": "Lady of Winterfell",
       "family": "House Stark",
       "image": "sansa-stark.jpeg",
-      "imageUrl": "https://thronesapi.com/assets/images/sansa-stark.jpeg"
+      "imageUrl": "https://thronesapi.com/assets/images/sansa-stark.jpeg",
+      "bio": "Sansa Stark is the eldest daughter of Eddard and Catelyn Stark of Winterfell. Initially naive and trusting, Sansa has to learn to navigate the political landscape of King's Landing the hard way."
     },
     {
       "id": 5,
@@ -61,7 +63,8 @@
       "title": "Lord of Winterfell",
       "family": "House Stark",
       "image": "bran-stark.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/bran-stark.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/bran-stark.jpg",
+      "bio": "Brandon Stark, also known as Bran, is the second son of Eddard Stark. After a fall cripples him, Bran develops the ability to warg and starts having prophetic dreams."
     },
     {
       "id": 6,
@@ -71,7 +74,8 @@
       "title": "Lord of Winterfell",
       "family": "House Stark",
       "image": "ned-stark.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/ned-stark.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/ned-stark.jpg",
+      "bio": "Eddard Stark, also known as Ned, is the lord of Winterfell and Warden of the North. Known for his sense of honor and justice, he is thrust into the treacherous world of King's Landing."
     },
     {
       "id": 7,
@@ -81,7 +85,8 @@
       "title": "Lord of the Seven Kingdoms",
       "family": "House Baratheon",
       "image": "robert-baratheon.jpeg",
-      "imageUrl": "https://thronesapi.com/assets/images/robert-baratheon.jpeg"
+      "imageUrl": "https://thronesapi.com/assets/images/robert-baratheon.jpeg",
+      "bio": "Robert Baratheon is the King of the Seven Kingdoms of Westeros. He took the throne through conquest in the war known as Robert's Rebellion."
     },
     {
       "id": 8,
@@ -91,7 +96,8 @@
       "title": "Lord Commander of the Kingsguard",
       "family": "House Lannister",
       "image": "jaime-lannister.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/jaime-lannister.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/jaime-lannister.jpg",
+      "bio": "Jaime Lannister is the eldest son of Tywin Lannister and the twin brother of Cersei Lannister. Known as the Kingslayer, he is a knight of the Kingsguard."
     },
     {
       "id": 9,
@@ -101,7 +107,8 @@
       "title": "Lady of Casterly Rock",
       "family": "House Lannister",
       "image": "cersei.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/cersei.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/cersei.jpg",
+      "bio": "Cersei Lannister is the twin sister of Jaime Lannister and the older sister of Tyrion Lannister. She is the queen of King Robert Baratheon and later becomes the Queen Regent for her son, King Joffrey Baratheon."
     },
     {
       "id": 10,
@@ -111,7 +118,8 @@
       "title": "Lady of Winterfell",
       "family": "House Stark",
       "image": "catelyn-stark.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/catelyn-stark.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/catelyn-stark.jpg",
+      "bio": "Catelyn Stark, born Catelyn Tully, is the wife of Eddard Stark and the mother of his five children. She is known for her love for her children and her unwavering sense of duty."
     },
     {
       "id": 11,
@@ -121,7 +129,8 @@
       "title": "Lord of Winterfell",
       "family": "House Stark",
       "image": "robb-stark.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/robb-stark.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/robb-stark.jpg",
+      "bio": "Robb Stark is the eldest son of Eddard Stark and Catelyn Stark. Known as the Young Wolf, he becomes the King in the North after his father's death."
     },
     {
       "id": 12,
@@ -131,7 +140,8 @@
       "title": "Captain of Sea Bitch",
       "family": "House Greyjoy",
       "image": "theon.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/theon.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/theon.jpg",
+      "bio": "Theon Greyjoy is the only living son and heir of Lord Balon Greyjoy of the Iron Islands. Initially a ward of House Stark, Theon's loyalties are tested throughout the series."
     },
     {
       "id": 13,
@@ -141,7 +151,8 @@
       "title": "Lord of the Seven Kingdoms, Protector of the Realm",
       "family": "House Baratheon",
       "image": "joffrey.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/joffrey.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/joffrey.jpg",
+      "bio": "Joffrey Baratheon is the eldest son of King Robert Baratheon and Queen Cersei Lannister. Known for his cruelty and arrogance, Joffrey ascends to the throne after his father's death."
     },
     {
       "id": 14,
@@ -151,7 +162,8 @@
       "title": "Hand of the Queen",
       "family": "House Lannister",
       "image": "tyrion-lannister.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/tyrion-lannister.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/tyrion-lannister.jpg",
+      "bio": "Tyrion Lannister, also known as the Imp, is the youngest son of Tywin Lannister and younger brother of Cersei and Jaime Lannister. He is known for his intelligence and wit."
     },
     {
       "id": 15,
@@ -161,7 +173,8 @@
       "title": "The Hound",
       "family": "House Clegane",
       "image": "the-hound.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/the-hound.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/the-hound.jpg",
+      "bio": "Sandor Clegane, known as the Hound, is the younger brother of Ser Gregor Clegane and is the personal bodyguard of Prince Joffrey Baratheon."
     },
     {
       "id": 16,
@@ -169,9 +182,10 @@
       "lastName": "Baelish",
       "fullName": "Petyr Baelish",
       "title": "Littlefinger",
-      "family": "misc",
+      "family": "House Baelish",
       "image": "littlefinger.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/littlefinger.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/littlefinger.jpg",
+      "bio": "Petyr Baelish, also known as Littlefinger, is a master manipulator and serves as Master of Coin on the Small Council."
     },
     {
       "id": 17,
@@ -179,9 +193,10 @@
       "lastName": "Seaworth",
       "fullName": "Davos Seaworth",
       "title": "Hand of the King",
-      "family": "misc",
+      "family": "House Seaworth",
       "image": "davos-seaworth.png",
-      "imageUrl": "https://thronesapi.com/assets/images/davos-seaworth.png"
+      "imageUrl": "https://thronesapi.com/assets/images/davos-seaworth.png",
+      "bio": "Davos Seaworth, also known as the Onion Knight, is a former smuggler who becomes a knight and later serves as Hand of the King to Stannis Baratheon."
     },
     {
       "id": 18,
@@ -191,7 +206,8 @@
       "title": "Lord of Dragonstone",
       "family": "House Baratheon",
       "image": "stannis.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/stannis.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/stannis.jpg",
+      "bio": "Stannis Baratheon is the brother of King Robert Baratheon and claims the Iron Throne for himself after Robert's death."
     },
     {
       "id": 19,
@@ -199,9 +215,10 @@
       "lastName": "Unknown",
       "fullName": "Varys",
       "title": "Master of Whisperers",
-      "family": "misc",
+      "family": "Unknown",
       "image": "varys.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/varys.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/varys.jpg",
+      "bio": "Varys, also known as the Spider, is a eunuch and serves as Master of Whisperers on the king's Small Council."
     },
     {
       "id": 20,
@@ -211,7 +228,8 @@
       "title": "Khal",
       "family": "House Targaryen",
       "image": "khal-drogo.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/khal-drogo.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/khal-drogo.jpg",
+      "bio": "Khal Drogo is a chieftain of the Dothraki people and is married to Daenerys Targaryen."
     },
     {
       "id": 21,
@@ -221,7 +239,8 @@
       "title": "Queen of the Seven Kingdoms",
       "family": "House Tyrell",
       "image": "margaery-tyrell.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/margaery-tyrell.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/margaery-tyrell.jpg",
+      "bio": "Margaery Tyrell is a member of House Tyrell and is the only daughter of Lord Mace Tyrell. She is the sister of Ser Loras Tyrell and is, from a young age, betrothed to Robert Baratheon's son, Joffrey. She later becomes the queen of King Tommen."
     },
     {
       "id": 22,
@@ -231,17 +250,19 @@
       "title": "Spearwife",
       "family": "Free Folk",
       "image": "ygritte.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/ygritte.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/ygritte.jpg",
+      "bio": "Ygritte is a woman of the Free Folk who live beyond the Wall. She is part of Mance Rayder's army and becomes the lover of Jon Snow."
     },
     {
       "id": 23,
       "firstName": "Brienne",
       "lastName": "Tarth",
       "fullName": "Brienne of Tarth",
-      "title": "Lady Brienne",
+      "title": "Lady Brienne", 
       "family": "Tarth",
       "image": "brienne-tarth.jpeg",
-      "imageUrl": "https://thronesapi.com/assets/images/brienne-tarth.jpeg"
+      "imageUrl": "https://thronesapi.com/assets/images/brienne-tarth.jpeg",
+      "bio": "Brienne of Tarth is a highborn lady who would rather be a knight. As she is not a beauty, she is often mocked by knights and nobles. While escorting Jaime Lannister back to King's Landing, she develops an unrequited love for him."
     },
     {
       "id": 24,
@@ -249,9 +270,10 @@
       "lastName": "None",
       "fullName": "Missandei",
       "title": "Queen's Personal Advisor",
-      "family": "misc",
+      "family": "Naathi",
       "image": "missandei.jpeg",
-      "imageUrl": "https://thronesapi.com/assets/images/missandei.jpeg"
+      "imageUrl": "https://thronesapi.com/assets/images/missandei.jpeg",
+      "bio": "Missandei was originally a slave who served as an interpreter to the masters of Astapor, until she was freed when Daenerys Targaryen took the Unsullied army and used it to overthrow the slavers. Missandei now serves Daenerys as her trusted advisor and Handmaiden."
     },
     {
       "id": 25,
@@ -259,9 +281,10 @@
       "lastName": "None",
       "fullName": "Gilly",
       "title": "The Rabbit Keeper",
-      "family": "misc",
+      "family": "None",
       "image": "gilly.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/gilly.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/gilly.jpg",
+      "bio": "Gilly is one of the Free Folk, and is a daughter and wife of Craster. She is forced to leave Craster's Keep and takes shelter with Samwell Tarly, with whom she later forms a romantic relationship."
     },
     {
       "id": 26,
@@ -269,9 +292,10 @@
       "lastName": "Targaryan",
       "fullName": "Viserys Targaryn",
       "title": "King Viserys III",
-      "family": "House Targaryen",
+      "family": "House Targaryan",
       "image": "viserys-targaryan.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/viserys-targaryan.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/viserys-targaryan.jpg",
+      "bio": "Viserys Targaryen is the exiled prince and heir of the Targaryen dynasty. He is the older brother of Daenerys Targaryen, and serves as a primary antagonist in the first season."
     },
     {
       "id": 27,
@@ -281,7 +305,8 @@
       "title": "Prince",
       "family": "House Stark",
       "image": "rickon.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/rickon.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/rickon.jpg",
+      "bio": "Rickon Stark is the youngest child of Eddard and Catelyn Stark. He is a naturally aggressive and strong-willed child, and is often accompanied by his direwolf, Shaggydog."
     },
     {
       "id": 28,
@@ -291,7 +316,8 @@
       "title": "Lord of Dreadfort",
       "family": "House Bolton",
       "image": "roose-bolton.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/roose-bolton.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/roose-bolton.jpg",
+      "bio": "Roose Bolton is the Lord of the Dreadfort and the head of House Bolton. After betraying Robb Stark at the Red Wedding, he becomes the Warden of the North."
     },
     {
       "id": 29,
@@ -299,9 +325,10 @@
       "lastName": "Naharis",
       "fullName": "Daario",
       "title": "Commander of the Second Sons",
-      "family": "misc",
+      "family": "Naharis",
       "image": "daario.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/daario.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/daario.jpg",
+      "bio": "Daario Naharis is a sellsword and is the leader of the mercenary company the Second Sons. He takes a liking to Daenerys and decides to serve her."
     },
     {
       "id": 30,
@@ -309,9 +336,10 @@
       "lastName": "",
       "fullName": "Shae",
       "title": "Mistress",
-      "family": "misc",
+      "family": "Lorathi",
       "image": "shae.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/shae.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/shae.jpg",
+      "bio": "Shae is a prostitute who has a secret affair with Tyrion Lannister. She later becomes Sansa Stark's handmaiden."
     },
     {
       "id": 31,
@@ -321,7 +349,8 @@
       "title": "Prince",
       "family": "House Baratheon",
       "image": "tommen.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/tommen.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/tommen.jpg",
+      "bio": "Tommen Baratheon is the younger brother of King Joffrey and Princess Myrcella. Though officially the son of Robert Baratheon, he is actually a product of the incestuous relationship between Cersei Lannister and her brother Jaime. He is good-natured and passive, in stark contrast to Joffrey."
     },
     {
       "id": 32,
@@ -331,7 +360,8 @@
       "title": "Lord of Storm's End",
       "family": "House Baratheon",
       "image": "gendry.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/gendry.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/gendry.jpg",
+      "bio": "Gendry is a blacksmith and an unacknowledged bastard of King Robert Baratheon. After Robert's death, Gendry is pursued by the Lannisters as he is the late king's only remaining bastard."
     },
     {
       "id": 33,
@@ -341,17 +371,8 @@
       "title": "Knight",
       "family": "House Mormont",
       "image": "jorah-mormont.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/jorah-mormont.jpg"
-    },
-    {
-      "id": 34,
-      "firstName": "Robert",
-      "lastName": "Baratheon",
-      "fullName": "Robert Baratheon",
-      "title": "King",
-      "family": "House Baratheon",
-      "image": "king-robert.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/king-robert.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/jorah-mormont.jpg",
+      "bio": "Jorah Mormont is an exiled knight in the service of Daenerys Targaryen and the son of Jeor Mormont of the Night's Watch."
     },
     {
       "id": 35,
@@ -361,7 +382,8 @@
       "title": "The Bastard of Bolton",
       "family": "House Bolton",
       "image": "ramsey-bolton.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/ramsey-bolton.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/ramsey-bolton.jpg",
+      "bio": "Ramsey Bolton, also known as the Bastard of Bolton, is the legitimized bastard son of Roose Bolton. He is known for his cruelty and sadistic methods."
     },
     {
       "id": 36,
@@ -371,7 +393,8 @@
       "title": "Queen Consort",
       "family": "House Stark",
       "image": "talisa-stark.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/talisa-stark.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/talisa-stark.jpg",
+      "bio": "Talisa Stark, born Talisa Maegyr, was a healer on the battlefields of the Westerlands. She later married Robb Stark and became pregnant with their child."
     },
     {
       "id": 37,
@@ -381,7 +404,8 @@
       "title": "Lord Commander of the Knight's Watch",
       "family": "House Mormont",
       "image": "lord-commander-mormont.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/lord-commander-mormont.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/lord-commander-mormont.jpg",
+      "bio": "Jeor Mormont is the Lord Commander of the Night's Watch. He is a father figure to Jon Snow, who he takes under his wing."
     },
     {
       "id": 38,
@@ -391,7 +415,8 @@
       "title": "High Septon",
       "family": "misc",
       "image": "the-high-sparrow.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/the-high-sparrow.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/the-high-sparrow.jpg",
+      "bio": "The High Sparrow is the leader of the religious sect known as the Sparrows and the newly appointed High Septon."
     },
     {
       "id": 39,
@@ -399,9 +424,10 @@
       "lastName": "Martell",
       "fullName": "Oberyn Martell",
       "title": "Red Viper of Dorne",
-      "family": "House Martell",
+      "family": "misc",
       "image": "red-viper.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/red-viper.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/red-viper.jpg",
+      "bio": "Oberyn Martell, known as the Red Viper of Dorne, is a skilled fighter and the brother of Doran Martell. He comes to King's Landing seeking justice for his sister's murder."
     },
     {
       "id": 40,
@@ -411,7 +437,8 @@
       "title": "Melisandre of Asshai",
       "family": "misc",
       "image": "melisandre.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/melisandre.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/melisandre.jpg",
+      "bio": "Melisandre, often referred to as the Red Woman, is a Red Priestess in the religion of R'hllor, the Lord of Light, and a close counselor to Stannis Baratheon in his campaign to take the Iron Throne."
     },
     {
       "id": 41,
@@ -421,7 +448,8 @@
       "title": "Faceless Men of Braavos",
       "family": "misc",
       "image": "jaqen-hghar.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/jaqen-hghar.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/jaqen-hghar.jpg",
+      "bio": "Jaqen H'ghar is a mysterious man - introducing himself as a Lorathi criminal - who was arrested and put in the dungeons of King's Landing, before being recruited by Yoren to join the Night's Watch. He is in fact a Faceless Man of Braavos, a feared order of mysterious assassins with the ability to change their appearance at will."
     },
     {
       "id": 42,
@@ -431,7 +459,8 @@
       "title": "Lord Paramount of Westerlands",
       "family": "House Lannister",
       "image": "tywin-lannister.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/tywin-lannister.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/tywin-lannister.jpg",
+      "bio": "Tywin Lannister is the head of House Lannister, Lord of Casterly Rock, and Warden of the West. He is a calculating, ruthless, and controlling man. He is also the father of Cersei, Jaime, and Tyrion Lannister."
     },
     {
       "id": 43,
@@ -439,9 +468,10 @@
       "lastName": "Sand",
       "fullName": "Ellaria Sand",
       "title": "Paramour of Prince Oberyn Martell",
-      "family": "Sand",
+      "family": "misc",
       "image": "ellaria-sand.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/ellaria-sand.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/ellaria-sand.jpg",
+      "bio": "Ellaria Sand is the paramour of Prince Oberyn Martell of Dorne and a bastard of House Uller, carrying the bastard surname \"Sand\" like all bastards in Dorne. She is the mother of four of Prince Oberyn's eight bastard daughters."
     },
     {
       "id": 44,
@@ -451,7 +481,8 @@
       "title": "Free Folk Warrior",
       "family": "Free Folk",
       "image": "tormund-giantsbane.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/tormund-giantsbane.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/tormund-giantsbane.jpg",
+      "bio": "Tormund, often called Tormund Giantsbane, is a renowned warrior and raider among the Free Folk and one of the key leaders behind Mance Rayder."
     },
     {
       "id": 45,
@@ -461,7 +492,8 @@
       "title": "Lady of the Iron Islands",
       "family": "House Greyjoy",
       "image": "yara-greyjoy.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/yara-greyjoy.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/yara-greyjoy.jpg",
+      "bio": "Yara is the only daughter of Lord Balon and Lady Alannys of House Harlaw. She was born and raised at Pyke. She was Balon and Alannys's third child after Rodrik and Maron. She also has a younger brother, Theon. Eight years before the start of the series, Balon rose in rebellion against the Iron Throne and was defeated in a bloody war. Balon's two older sons were killed, and Theon was taken by Lord Eddard Stark as a hostage for Balon's good behavior and obedience. With Yara as Balon's only remaining child in the Iron Islands, he raised her as a surrogate son, encouraging her to become a reaver in her own right, which is unusual for women in the patriarchal culture of the Ironborn. She is a fierce warrior and commands her own longship, to the disquiet of some of the Ironborn who hold that women should not fight or command men in battle."
     },
     {
       "id": 46,
@@ -471,7 +503,8 @@
       "title": "King of the iron Islands",
       "family": "House Greyjoy",
       "image": "euron-greyjoy.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/euron-greyjoy.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/euron-greyjoy.jpg",
+      "bio": "Euron Greyjoy is the younger brother of Balon Greyjoy, head of House Greyjoy, Lord Reaper of Pyke and Lord of the Iron Islands. At the outset of the Greyjoy Rebellion when Balon first declared himself King of the Iron Islands, Euron orchestrated the daring raid on Lannisport which burned Tywin Lannister's entire fleet at anchor. This gave the Ironborn command of the western seas and coasts of Westeros for a time. Following the failure of the Greyjoy Rebellion, Euron went into exile, and has spent the last years as a pirate, reaving from Oldtown to Qarth and beyond, fighting Summer Islanders and the Ibbenese. He once lost his senses during a storm while sailing on the Jade Sea, and his crew was forced to tie him to the mast to prevent him from jumping overboard. When he was let down after the storm, he had all their tongues ripped out. Euron later glibly remarked of the incident that \"I needed silence.\""
     },
     {
       "id": 47,
@@ -479,9 +512,10 @@
       "lastName": "Hodor",
       "fullName": "Hodor",
       "title": "Servant of House Stark",
-      "family": "House Stark",
+      "family": "misc",
       "image": "hodor.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/hodor.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/hodor.jpg",
+      "bio": "Hodor is simple-minded (i.e. mentally disabled) and he is only capable of saying one word, \"hodor\", though he can apparently understand complex instructions other people give him. \"Hodor\" is a seemingly nonsense word, though in the process it became the name everyone calls him. It is derived from the phrase \"hold the door\", the words that Hodor heard during the seizure that mentally disabled him as a result of the future Bran Stark accidentally warging into his young self during a vision. Nonetheless, House Stark set him to work at a productive occupation within his capacities, as a stableboy serving at Winterfell. Hodor is incredibly large and strong. While he is slow of wits, he is gentle and loyal to the Starks. He is actually Old Nan's great-grandson and only known relative."
     },
     {
       "id": 48,
@@ -491,7 +525,8 @@
       "title": "Grand Maester of the Seven Kingdoms",
       "family": "misc",
       "image": "pycelle.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/pycelle.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/pycelle.jpg",
+      "bio": "Pycelle has been Grand Maester of the Seven Kingdoms for decades and has served under four kings when the series begins. The Grand Maester is the king's personal maester, a learned man wise in history, science, and medicine who also provides counsel. The Grand Maester sits on the king's Small Council, which runs the realm in the name of the king. He served King Aerys II Targaryen prior to Robert's Rebellion. He remembers Aerys as a great man before his descent into madness. When Tywin Lannister marched to the gates of King's Landing, following the rebel victory at the Battle of the Trident, nearly all of the king's advisors told Aerys not to trust Tywin; Pycelle, however, gave the opposite counsel and the city gates were opened, allowing the Lannister forces to sack the capital. Following the rebellion, he remained Grand Maester to King Robert Baratheon. He played up his age to appear harmless, but was actually mentally sharp and dangerous. He was loyal to Queen Cersei Lannister (although she found him annoying and his loyalty troubling) and was involved in the birth of all of her children, assisted by midwives. He privately used to flout the vow of celibacy taken by maesters."
     },
     {
       "id": 49,
@@ -501,7 +536,8 @@
       "title": "Commander of the Unsullied",
       "family": "misc",
       "image": "greyworm.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/greyworm.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/greyworm.jpg",
+      "bio": "Grey Worm was originally a boy taken into slavery by the Good Masters of Astapor, an oligarchy of slave-traders dedicated to the training and commerce of Unsullied, warrior-eunuch slaves trained into absolute obedience since early childhood. It later is revealed that he is originally from the Summer Isles and was taken by the slavers in a raid as a baby. He has no memory of his life before being an Unsullied. He is released from slavery after Daenerys Targaryen buys all the Unsullied in the city and has them put all slave owners in Astapor to the sword and release all slaves. Once released, Grey Worm, like all his brethren, chooses to fight for Daenerys as a free man."
     },
     {
       "id": 50,
@@ -511,7 +547,8 @@
       "title": "Queen of Thorns",
       "family": "House Tyrell",
       "image": "olenna-tyrell.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/olenna-tyrell.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/olenna-tyrell.jpg",
+      "bio": ""
     },
     {
       "id": 51,
@@ -521,7 +558,8 @@
       "title": "Former maester of the Citadel",
       "family": "misc",
       "image": "qyburn.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/qyburn.jpg"
+      "imageUrl": "https://thronesapi.com/assets/images/qyburn.jpg",
+      "bio": "Qyburn is a former maester of the Citadel. He was stripped of his chain by the archmaesters for engaging in forbidden human experimentation: it was discovered that he had been vivisecting men in his pursuit of medical knowledge. Qyburn held to the belief that the death of a few men was justifiable if it would lead to medical breakthroughs that would save the lives of many more. While his unethical experiments have led to him being reviled by many, they also made him arguably one of the most talented healers in all of Westeros."
     },
     {
       "id": 52,
@@ -531,17 +569,8 @@
       "title": "Lord of Highgarden",
       "family": "misc",
       "image": "bronn.jpg",
-      "imageUrl": "https://thronesapi.com/assets/images/bronn.jpg"
-    },
-    {
-      "id": 53,
-      "firstName": "Jeor",
-      "lastName": "Mormont",
-      "fullName": "Jeor Mormont",
-      "title": "997th Lord Commander of the Night's Watch",
-      "family": "House Mormont",
-      "image": "mormont.jpg",
-      "imageUrl": ""
+      "imageUrl": "https://thronesapi.com/assets/images/bronn.jpg",
+      "bio": "Bronn is a sellsword: a highly trained, extremely lethal, and a feared mercenary soldier whose service as a warrior is for hire. Not much is known about his past or family, except that he had a younger brother, whom Bronn describes as \"a real pest.\" Both his parents viciously beat him. At age 5, his nose was accidentally broken when his mother hit him with an iron poker, which she had meant for his younger brother. His nose was broken a second time at age 9, during a scrap with a few older boys and they won. It was also broken a third time, but the details are unknown. Bronn has also mentioned that he first found out that men void their bowels when they die when he was only 5 years old. When Tyrion Lannister introduced him to Tywin Lannister, Bronn said that his father is no one Lord Tywin would know. During a drinking game with Tyrion and Shae, Bronn claims that he killed a woman before he was 12 years old, though it was in self-defense as she was attacking him with an axe. Bronn also confirmed Tyrion's claim that Bronn has been beyond the Wall. When asked why he was there, he bluntly answers that it was work."
     }
   ]
 }

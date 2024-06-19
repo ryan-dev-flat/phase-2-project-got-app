@@ -5,6 +5,7 @@ function CharacterCard ( {character} ){
         <li>
             <img src={character.imageUrl} />
             <h4>{character.fullName}</h4>
+            <p>{character.bio}</p>
         </li>
     );
 }

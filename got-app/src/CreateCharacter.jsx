@@ -40,6 +40,7 @@ function CreateCharacter () {
                     <option>House Bolton</option>
                     <option>Free Folk</option>
                     <option>House Targaryen</option>
+                    <option>House Mormont</option>
                     <option>Miscellaneous</option>
                 </select>
                 <input type="text" name="image" placeholder="Enter Image URL" value={characterInfo.image} onChange={handleChange}/>
