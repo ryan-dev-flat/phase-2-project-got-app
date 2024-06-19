@@ -4,7 +4,8 @@ import App from './App.jsx'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
+ //StrictMode - React will call the initializer and updater functions twice in order to help you find accidental impurities like mutating state
+ <React.StrictMode>
       <App />
   </React.StrictMode>,
 )
