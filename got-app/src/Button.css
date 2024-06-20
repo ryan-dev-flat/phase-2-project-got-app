@@ -1,0 +1,62 @@
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}
+
+
+.button {
+    flex: 1;
+    padding: 10px 20px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    margin: 0;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: black;
+}
+
+.stark {
+    background-color: #939598;
+}
+
+.targaryen {
+    background-color: #ED1C24;
+}
+
+.baratheon {
+    background-color: #FFF200;
+}
+
+.lannister {
+    background-color: #F15A29;
+}
+
+.greyjoy {
+    background-color: #FBB040;
+}
+
+.tyrell {
+    background-color: #D7DF23;
+}
+
+.bolton {
+    background-color: #9E1F63;
+}
+
+.mormont {
+    background-color: #006838;
+}
+
+.free-folk {
+    background-color: #00A79D;
+}
+
+.misc {
+    background-color: darkgray;
+}
