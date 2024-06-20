@@ -3,3 +3,30 @@
     flex-wrap: wrap;
     justify-content: center;
 }
+
+.result-card {
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 500px;
+    text-align: center;
+}
+
+.result-card img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.result-card h4 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.result-card p {
+    color: #666;
+}

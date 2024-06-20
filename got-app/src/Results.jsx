@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import CharacterCard from './CharacterCard';
+import './Results.css';
 
 function Results({ searchTerm }) {
   const [results, setResults] = useState([]);
