@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import './Form.css'
 
 const initialCharcterInfo = {
     fullName: "",
@@ -27,7 +28,7 @@ function CreateCharacter () {
     }
 
     return (
-        <div>
+        <div className="form-container">
             <form onSubmit={handleSubmit}>
                 <input type="text" name="fullName" placeholder="Enter Full Name" value={characterInfo.fullName} onChange={handleChange}/>
                 <input type="text" name="title" placeholder="Enter Title" value={characterInfo.title} onChange={handleChange}/>
