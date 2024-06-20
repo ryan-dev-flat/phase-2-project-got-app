@@ -5,7 +5,7 @@ const initialCharcterInfo = {
     fullName: "",
     title: "",
     family: "House Stark",
-    image: "",
+    imageUrl: "",
     bio: "",
 }
 
@@ -45,7 +45,7 @@ function CreateCharacter ({ addCharacter }) {
                     <option value="House Mormont">House Mormont</option>
                     <option value="misc">misc</option>
                 </select>
-                <input type="text" name="image" placeholder="Enter Image URL" value={characterInfo.image} onChange={handleChange}/>
+                <input type="text" name="imageUrl" placeholder="Enter Image URL" value={characterInfo.imageUrl} onChange={handleChange}/>
                 <input type="text" name="bio" placeholder="Enter Bio" value={characterInfo.bio} onChange={handleChange}/>
                 <button type="submit" className="character-submit">Create Character</button>
             </form>
