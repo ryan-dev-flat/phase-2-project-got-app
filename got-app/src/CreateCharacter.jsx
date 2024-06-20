@@ -46,7 +46,7 @@ function CreateCharacter () {
                 </select>
                 <input type="text" name="image" placeholder="Enter Image URL" value={characterInfo.image} onChange={handleChange}/>
                 <input type="text" name="bio" placeholder="Enter Bio" value={characterInfo.bio} onChange={handleChange}/>
-                <button type="submit">Create Character</button>
+                <button type="submit" className="character-submit">Create Character</button>
             </form>
         </div>
     )
