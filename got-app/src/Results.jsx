@@ -23,9 +23,11 @@ function Results({ searchTerm }) {
   }, [searchTerm, characters]);
 
   return (
-    <div>
+    <div className="results-container">
       {results.map(character => (
+        <div className="result-card">
         <CharacterCard key={character.id} character={character} />
+        </div>
       ))}
     </div>
   );
