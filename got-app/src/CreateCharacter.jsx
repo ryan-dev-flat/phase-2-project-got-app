@@ -4,13 +4,20 @@ import './Form.css'
 const initialCharcterInfo = {
     fullName: "",
     title: "",
-    family: "",
+    family: "House Stark",
     image: "",
     bio: "",
 }
 
-function CreateCharacter () {
-    const [characterInfo, setCharacterInfo] = useState({initialCharcterInfo})
+function CreateCharacter ({ addCharacter }) {
+    const [characterInfo, setCharacterInfo] = useState(initialCharcterInfo)
+
+    function handleSubmit(e) {
+        e.preventDefault()
+
+        addCharacter(characterInfo)
+        setCharacterInfo(initialCharcterInfo)
+}
 
     function handleChange(e) {
         const key = e.target.name
@@ -21,28 +28,22 @@ function CreateCharacter () {
         setCharacterInfo(newCharacterInfo)
     }
 
-    function handleSubmit(e) {
-        e.preventDefault()
-
-
-    }
-
     return (
         <div className="form-container">
             <form onSubmit={handleSubmit}>
                 <input type="text" name="fullName" placeholder="Enter Full Name" value={characterInfo.fullName} onChange={handleChange}/>
                 <input type="text" name="title" placeholder="Enter Title" value={characterInfo.title} onChange={handleChange}/>
                 <select name="family" value={characterInfo.family} onChange={handleChange}>
-                    <option>House Stark</option>
-                    <option>House Lannister</option>
-                    <option>House Baratheon</option>
-                    <option>House Greyjoy</option>
-                    <option>House Tyrell</option>
-                    <option>House Bolton</option>
-                    <option>Free Folk</option>
-                    <option>House Targaryen</option>
-                    <option>House Mormont</option>
-                    <option>Miscellaneous</option>
+                    <option value="House Stark">House Stark</option>
+                    <option value="House Lannister">House Lannister</option>
+                    <option value="House Baratheon">House Baratheon</option>
+                    <option value="House Greyjoy">House Greyjoy</option>
+                    <option value="House Tyrell">House Tyrell</option>
+                    <option value="House Bolton">House Bolton</option>
+                    <option value="Free Folk">Free Folk</option>
+                    <option value="House Targaryen">House Targaryen</option>
+                    <option value="House Mormont">House Mormont</option>
+                    <option value="misc">misc</option>
                 </select>
                 <input type="text" name="image" placeholder="Enter Image URL" value={characterInfo.image} onChange={handleChange}/>
                 <input type="text" name="bio" placeholder="Enter Bio" value={characterInfo.bio} onChange={handleChange}/>

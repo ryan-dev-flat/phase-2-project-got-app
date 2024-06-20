@@ -6,25 +6,39 @@ import CharacterPage from "./CharacterPage";
 import CreateCharacter from "./CreateCharacter";
 import Search from "./Search";
 import Results from "./Results";
+import './App.css'
 
-const baseUrl = "http://localhost:3000"
+const API = "http://localhost:3000/characters"
 
 function App() {
   const [characters, setCharacters] = useState([]);
 
   useEffect(() => {
-    fetch(baseUrl + "/characters")
+    fetch(API)
       .then(resp => resp.json())
       .then(data => setCharacters(data))   
   }, [])
 
+  function addCharacter(character) {
+    fetch(API, {
+      method: 'POST',
+      headers: {
+          'Content-Type': 'application/json', 
+      },
+      body: JSON.stringify(character)
+  })
+  .then(response => response.json())
+  .then(json => setCharacters([...characters, json]))
+  
+  }
+
   return (
      <Router>
-      <div>
+      <div className="container">
         <Header />
         <Routes>
           <Route path="/" element={<CharacterPage characters={characters} />} />
-          <Route path="/create" element={<CreateCharacter/>} />
+          <Route path="/create" element={<CreateCharacter addCharacter={addCharacter} />} />
           <Route path="/search" element={<Search />} />
           <Route path="/search/:searchTerm" element={<Results />} />
         </Routes>
